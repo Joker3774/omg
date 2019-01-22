@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\silence\Desktop\NCUT20181009\Temp\gradleOut\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="C:\Users\silence\Desktop\NCUT20181009\Temp\gradleOut\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\silence\Desktop\NCUT20181009\Temp\gradleOut\libs\Vuforia.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="C:\Users\silence\Desktop\NCUT20181009\Temp\gradleOut\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\silence\Desktop\NCUT20181009\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="27.0.3"
+        sha1="239e56097808c57dcc1e9f087ddd2e28baf5ddb6">
+        <dex dex="C:\Users\silence\Desktop\NCUT20181009\Temp\gradleOut\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>

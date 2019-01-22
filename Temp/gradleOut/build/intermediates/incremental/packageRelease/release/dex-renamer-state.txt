@@ -1,0 +1,4 @@
+#Mon Jan 21 22:40:59 GMT+08:00 2019
+base.0=C\:\\Users\\silence\\Desktop\\NCUT20181009\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
